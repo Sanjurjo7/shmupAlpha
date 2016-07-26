@@ -12,6 +12,7 @@ Concept:
   This will be a good practice in importing and using Blender's API for the tasks of object handling.
 
 Ideas:
+  Top down, story type, with allies.
   Powerups
   Ship varieties (Heavy, Light, Balanced)
   Enemy types (regular enemies and bosses)
