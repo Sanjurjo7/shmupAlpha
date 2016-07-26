@@ -5,6 +5,7 @@ Sources to start:
   python.org (we're going to try python3 first)
   pygame.org
   blender.org
+  Blender's API: https://www.blender.org/api/blender_python_api_2_77_1/#game-engine-modules
 
 Concept:
   Scrolling Shmup, start simple and work our way up as we get more. 
