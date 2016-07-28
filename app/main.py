@@ -1,3 +1,5 @@
+# Object Oriented Pygame Initializer
+
 import pygame
 from pygame.locals import *
 
@@ -22,7 +24,7 @@ class App:
   def on_render(self):
     pass
 
-  def on_cleanup(self):
+def on_cleanup(self):
     pygame.quit()
 
   def on_execute(self):
